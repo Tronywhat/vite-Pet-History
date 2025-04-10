@@ -1,5 +1,4 @@
 import '../Jilian-Estillos/Estilos.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { useState } from 'react';
 import Mn from "../Componentes-Jilian/Mn"
 
