@@ -6,8 +6,7 @@ function App() {
 
   return (
     <>
-    <Jilian></Jilian>
-    <Jilian2></Jilian2>
+   
     </>
   )
 }
