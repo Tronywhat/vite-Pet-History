@@ -10,13 +10,6 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
-      <Routes>
-        <Route path='/' element={<Miguel></Miguel>}></Route>
-        <Route path='/UsuIn' element={<Jilian></Jilian>}></Route>
-        <Route path='/UsuHi' element={<Jilian2></Jilian2>}></Route>
-      </Routes>
-      </BrowserRouter>
     </>
   )
 }
