@@ -4,6 +4,7 @@ import Menuu from '../Componentescarlos/Menuu';
 import Peboton from '../Componentescarlos/Peboton';
 import Ceboton from "../Componentescarlos/Ceboton"
 import Cuerpoo from "../Componentescarlos/Cuerpoo"
+import Footerr from "../Componentescarlos/Footerr"
 
 
 function Carlos() {
@@ -16,8 +17,11 @@ function Carlos() {
         <Peboton></Peboton>
         <Ceboton></Ceboton>
       </div>
-      
+      <div>
       <Cuerpoo></Cuerpoo>
+      <Footerr></Footerr>
+      
+      </div>
         
     </>
   )

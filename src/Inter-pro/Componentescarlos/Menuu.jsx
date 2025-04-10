@@ -28,6 +28,7 @@ function Menuu() {
               <NavDropdown.Item href="#action/3.1">Citas</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2"> Historia clinica</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.3">Pacientes recientes</NavDropdown.Item>
+              <NavDropdown.Item href="#action/3.3">recordatorios</NavDropdown.Item>
 
         
 

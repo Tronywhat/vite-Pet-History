@@ -9,7 +9,7 @@ function Peboton() {
       </Dropdown.Toggle>
 
       <Dropdown.Menu>
-        <Dropdown.Item href="#/action-1"></Dropdown.Item>
+        <Dropdown.Item href="#/action-1">Configuracion de perfil</Dropdown.Item>
         <Dropdown.Item href="#/action-2"></Dropdown.Item>
         <Dropdown.Item href="#/action-3"></Dropdown.Item>
       </Dropdown.Menu>
