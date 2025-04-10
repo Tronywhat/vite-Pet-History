@@ -8,7 +8,7 @@ import logo from "../Imagenes/logo.jpg"
 
 
 <img src="../assets/Imagenes/hamburguesa" alt="" />
-function Menu() {
+function Menuu() {
   const [show, setShow] = useState(false);
 
   const handleClose = () => setShow(false);
@@ -45,4 +45,4 @@ function Menu() {
   );
 }
 
-export default Menu
+export default Menuu
